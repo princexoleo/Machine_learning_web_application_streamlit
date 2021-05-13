@@ -28,12 +28,15 @@ Additionally, you have options to choose different type of parameter value from 
 
 # Some screen shot of that project given below
 ## Picture 1: Selecting Dataset
-![GitHub Logo](./res/image_1.png)
+![GitHub Logo](/res/image_1.png)
+Format: ![Alt Text](https://github.com/princexoleo/Machine_learning_web_application_streamlit/blob/main/res/image_1.PNG)
 
 
 ## Picture 2: Selecting Classifier
-![GitHub Logo](res/image_2.png)
+![GitHub Logo](/res/image_2.png)
+Format: ![Alt Text](https://github.com/princexoleo/Machine_learning_web_application_streamlit/blob/main/res/image_2.PNG)
 
 
 ## Picture 3: Selecting different types of parameter value
-![GitHub Logo](res/image_3.png)
+![GitHub Logo](/res/image_3.png)
+Format: ![Alt Text](https://github.com/princexoleo/Machine_learning_web_application_streamlit/blob/main/res/image_3.PNG)
