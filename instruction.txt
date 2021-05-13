@@ -1,0 +1,9 @@
+Create a Project
+install the requirenments file.
+
+pip install streamlit
+pip install scikit-learn
+pip install matplotlib
+
+From this project, you can learn the basics of streamlit linraries that are used to develop the web apps.
+Additionally you can also learn the scikit-learn framework.
