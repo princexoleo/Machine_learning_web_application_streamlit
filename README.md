@@ -28,7 +28,7 @@ Additionally, you have options to choose different type of parameter value from 
 
 # Some screen shot of that project given below
 ## Picture 1: Selecting Dataset
-![GitHub Logo](res/image_1.png)
+![GitHub Logo](./res/image_1.png)
 
 
 ## Picture 2: Selecting Classifier
